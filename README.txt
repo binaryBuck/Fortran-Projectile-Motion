@@ -30,63 +30,63 @@ Compile and run on MacOS with GNU Fortran (Homebrew GCC 12.2.0) 12.2.0:
 
 >> gfortran projectilesim.f90 -o projectilesim
 >> ./projectilesim
->> INPUT PARAMETERS, EXAMPLE: 15, 2.5, 60
+>> INPUT PARAMETERS, EXAMPLE: 7, 2, 60
     *** WARNING: Input time exceeds total flight time ***
-    Input time:   15.0000000     s
-    Total flight time:  0.441849649     s
+    Input time:   7.00000000     s
+    Total flight time:  0.353479743     s
     Results correspond to input time, which is after landing.
     --- Simulation #           1  ---
-    Launch velocity (U):    2.50000000    
-    Time (input):    15.0000000    
-    Horizontal displacement :    18.7500019    
-    Vertical displacement   :   -1070.02405    
-    Resultant velocity      :    144.840317    
-    Direction (in degrees)  :   -89.5055237    
+    Launch velocity (U):    2.00000000    
+    Time (input):    7.00000000    
+    Horizontal displacement :    7.00000095    
+    Vertical displacement   :   -227.975647    
+    Resultant velocity      :    66.8754272    
+    Direction (in degrees)  :   -89.1432190    
 
     *** WARNING: Input time exceeds total flight time ***
-    Input time:   15.0000000     s
-    Total flight time:  0.883699298     s
+    Input time:   7.00000000     s
+    Total flight time:  0.706959486     s
     Results correspond to input time, which is after landing.
     --- Simulation #           2  ---
-    Launch velocity (U):    5.00000000    
-    Time (input):    15.0000000    
-    Horizontal displacement :    37.5000038    
-    Vertical displacement   :   -1037.54810    
-    Resultant velocity      :    142.691772    
-    Direction (in degrees)  :   -88.9961090    
+    Launch velocity (U):    4.00000000    
+    Time (input):    7.00000000    
+    Horizontal displacement :    14.0000019    
+    Vertical displacement   :   -215.851288    
+    Resultant velocity      :    65.1665878    
+    Direction (in degrees)  :   -88.2412872    
 
     *** WARNING: Input time exceeds total flight time ***
-    Input time:   15.0000000     s
-    Total flight time:   1.76739860     s
+    Input time:   7.00000000     s
+    Total flight time:   1.41391897     s
     Results correspond to input time, which is after landing.
     --- Simulation #           3  ---
-    Launch velocity (U):    10.0000000    
-    Time (input):    15.0000000    
-    Horizontal displacement :    75.0000076    
-    Vertical displacement   :   -972.596191    
-    Resultant velocity      :    138.430084    
-    Direction (in degrees)  :   -87.9300690    
+    Launch velocity (U):    8.00000000    
+    Time (input):    7.00000000    
+    Horizontal displacement :    28.0000038    
+    Vertical displacement   :   -191.602585    
+    Resultant velocity      :    61.8013802    
+    Direction (in degrees)  :   -86.2890244    
 
     *** WARNING: Input time exceeds total flight time ***
-    Input time:   15.0000000     s
-    Total flight time:   3.53479719     s
+    Input time:   7.00000000     s
+    Total flight time:   2.82783794     s
     Results correspond to input time, which is after landing.
     --- Simulation #           4  ---
-    Launch velocity (U):    20.0000000    
-    Time (input):    15.0000000    
-    Horizontal displacement :    150.000015    
-    Vertical displacement   :   -842.692383    
-    Resultant velocity      :    130.064484    
-    Direction (in degrees)  :   -85.5904694    
+    Launch velocity (U):    16.0000000    
+    Time (input):    7.00000000    
+    Horizontal displacement :    56.0000076    
+    Vertical displacement   :   -143.105164    
+    Resultant velocity      :    55.3250465    
+    Direction (in degrees)  :   -81.6858902    
 
     *** WARNING: Input time exceeds total flight time ***
-    Input time:   15.0000000     s
-    Total flight time:   7.06959438     s
+    Input time:   7.00000000     s
+    Total flight time:   5.65567589     s
     Results correspond to input time, which is after landing.
     --- Simulation #           5  ---
-    Launch velocity (U):    40.0000000    
-    Time (input):    15.0000000    
-    Horizontal displacement :    300.000031    
-    Vertical displacement   :   -582.884766    
-    Resultant velocity      :    114.125114    
-    Direction (in degrees)  :   -79.9070129
+    Launch velocity (U):    32.0000000    
+    Time (input):    7.00000000    
+    Horizontal displacement :    112.000015    
+    Vertical displacement   :   -46.1103210    
+    Resultant velocity      :    43.9062843    
+    Direction (in degrees)  :   -68.6285706    
